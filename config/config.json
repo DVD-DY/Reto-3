@@ -1,7 +1,10 @@
 {
     "development": {
-        "dialect": "sqlite",
-        "storage": "./database.sqlite3"
+        "username": "root",
+        "password": "",
+        "database": "based",
+        "host": "localhost",
+        "dialect": "mysql"
     },
     "test": {
         "dialect": "sqlite",
